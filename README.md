@@ -1,7 +1,7 @@
 # git_study
 
-1. Create a new repository on the command line
------------------------------------------------
+## 1. Create a new repository on the command line
+
 
 ###
     $echo "# git_study" >> README.md
@@ -13,8 +13,8 @@
     $git remote add origin https://github.com/DavadDi/git_study.git
     $git push -u origin master
 
-2. Push an existing repository from the command line
-------------------------------------------------------
+## 2. Push an existing repository from the command line
+
 
 ###
     $set user.name and email
@@ -23,13 +23,30 @@
 
 
 
-3. MyBlog
--------------------
 
-[www.do1618.com](http://www.do1618.com)<br/>
+## 3. Markdown sytax see
 
-
-4. Markdown sytax see
------------------------------
 
 [Markdown Resource] (https://github.com/DavadDi/git_study/blob/master/MarkdownSyntax.md)
+
+## 4. 使用原则
+
+### 中心库一直保留两个分支：
+* master 用于存档主要稳定的版本
+* develop 分支
+
+### 其他辅助开发分支
+* feature branchs
+* hot fixs branchs
+* release branchs
+
+![参见图](http://static.oschina.net/uploads/img/201302/25142840_pKcL.png)
+
+[Full See Also](http://www.oschina.net/translate/a-successful-git-branching-model)
+
+
+
+5. MyBlog
+-------------------
+
+[www.do1618.com](http://www.do1618.com)<br />
