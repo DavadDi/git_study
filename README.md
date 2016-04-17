@@ -24,7 +24,7 @@
 
 
 
-## 3. Markdown sytax see
+## 3. Markdown Sytax Resource
 
 
 [Markdown Resource] (https://github.com/DavadDi/git_study/blob/master/MarkdownSyntax.md)
@@ -42,11 +42,15 @@
 
 ![参见图](http://static.oschina.net/uploads/img/201302/25142840_pKcL.png)
 
-[Full See Also](http://www.oschina.net/translate/a-successful-git-branching-model)
+参见：[介绍一个成功的 Git 分支模型](http://www.oschina.net/translate/a-successful-git-branching-model)
+
+## 5. Git常用命令参考
+
+[Git Community Book中文版](http://gitbook.liuhui998.com/index.html)
 
 
 
-5. MyBlog
--------------------
+## 6. MyBlog
+
 
 [www.do1618.com](http://www.do1618.com)<br />
