@@ -48,7 +48,7 @@
 
 [Git Community Book中文版](http://gitbook.liuhui998.com/index.html)
 
-
+![git图](http://www.do1618.com/wp-content/uploads/2016/04/git_big_jb51.jpg)
 
 ## 6. MyBlog
 
