@@ -31,6 +31,10 @@
 ### 具体可以参考： <br />
 * [git 命令之git rebase 用法](http://blog.csdn.net/wh_19910525/article/details/7554489) <br />
 * [用Git Rebase让时光倒流] (https://linux.cn/article-4046-1.html)
+
+
+### 本文样例
+![git flow](http://www.do1618.com/wp-content/uploads/2016/04/git_work_flow.png)
 	
 	
 	
