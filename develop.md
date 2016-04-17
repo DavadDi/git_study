@@ -28,7 +28,9 @@
 ## 特步备注 Git rebase
 当你提交的代码后，管理员发现，您的代码不能提交到服务器上，主要原因在于，你的commit 中和服务器中的有些commit不再同一时间轴上，即：你的有些commit要插入到服务器中的某些commit之间，这样就会造成代码的冲突。所以这个时候就要使用git rebase。
 
-具体可以参考： <http://blog.csdn.net/wh_19910525/article/details/7554489>
+### 具体可以参考： <br />
+* [git 命令之git rebase 用法](http://blog.csdn.net/wh_19910525/article/details/7554489) <br />
+* [用Git Rebase让时光倒流] (https://linux.cn/article-4046-1.html)
 	
 	
 	
