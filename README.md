@@ -42,8 +42,9 @@
 
 ![参见图](http://static.oschina.net/uploads/img/201302/25142840_pKcL.png)
 
-参见：[介绍一个成功的 Git 分支模型](http://www.oschina.net/translate/a-successful-git-branching-model)
-
+参见：[介绍一个成功的 Git 分支模型](http://www.oschina.net/translate/a-successful-git-branching-model) <br \>
+[Git Tutorials](https://www.atlassian.com/git/tutorials)  见过的最简单易懂的介绍 <br \>
+中文 [Git工作流指南：Gitflow工作流](http://blog.jobbole.com/76867/) <br \>
 ## 5. Git常用命令参考
 
 [Git Community Book中文版](http://gitbook.liuhui998.com/index.html)
