@@ -45,7 +45,7 @@
 ###参见
 1. [介绍一个成功的 Git 分支模型](http://www.oschina.net/translate/a-successful-git-branching-model)
 2. [Git Tutorials](https://www.atlassian.com/git/tutorials)  见过的最简单易懂的介绍 <br \> 中文 [Git工作流指南：Gitflow工作流](http://blog.jobbole.com/76867/) 
-3. [Git 版本管理：Git Flow 模型](http://blog.jobbole.com/100264/)  一款方便使用git flow的工具
+3. [Git 版本管理：Git Flow 模型](http://blog.jobbole.com/100264/)  一款方便使用git flow的工具，通过流程简化了git-flow模型的操作，方便同事合作与约定， [GitHub地址](https://github.com/nvie/gitflow)
 
 
 ## 5. Git常用命令参考
