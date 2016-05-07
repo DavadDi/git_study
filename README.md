@@ -42,14 +42,17 @@
 
 ![参见图](http://static.oschina.net/uploads/img/201302/25142840_pKcL.png)
 
-参见：[介绍一个成功的 Git 分支模型](http://www.oschina.net/translate/a-successful-git-branching-model) <br \>
-[Git Tutorials](https://www.atlassian.com/git/tutorials)  见过的最简单易懂的介绍 <br \>
-中文 [Git工作流指南：Gitflow工作流](http://blog.jobbole.com/76867/) <br \>
+###参见
+1. [介绍一个成功的 Git 分支模型](http://www.oschina.net/translate/a-successful-git-branching-model)
+2. [Git Tutorials](https://www.atlassian.com/git/tutorials)  见过的最简单易懂的介绍 <br \> 中文 [Git工作流指南：Gitflow工作流](http://blog.jobbole.com/76867/) 
+3. [Git 版本管理：Git Flow 模型](http://blog.jobbole.com/100264/)  一款方便使用git flow的工具
+
+
 ## 5. Git常用命令参考
 
-[Git Community Book中文版](http://gitbook.liuhui998.com/index.html)
-
-![git图](http://www.do1618.com/wp-content/uploads/2016/04/git_big_jb51.jpg)
+1. [Git Community Book中文版](http://gitbook.liuhui998.com/index.html)
+2. [分支和Tag相关操作](https://github.com/DavadDi/git_study/blob/develop/develop.md)
+3. 命令速查 ![git图](http://www.do1618.com/wp-content/uploads/2016/04/git_big_jb51.jpg)
 
 ## 6. MyBlog
 
