@@ -49,8 +49,23 @@
 [Git Community Book中文版](http://gitbook.liuhui998.com/index.html)
 
 ![git图](http://www.do1618.com/wp-content/uploads/2016/04/git_big_jb51.jpg)
+![git命令图](http://wlog.cn/files/img/git.png)
 
-## 6. MyBlog
+代码审核提交的命令：
+
+将这个commit推送到git 服务器上面一个临时branch：
+
+git push origin HEAD:cr-style-improvement
+
+## 6. 精品教材
+
+* [连猴子都能懂的Git教程](https://backlogtool.com/git-guide/tw/intro/intro1_1.html)
+* [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html) [中文](https://marklodato.github.io/visual-git-guide/index-zh-cn.html)
+* [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3)
+* [Git 取消修改，恢复版本 命令大全](http://blog.csdn.net/cankingapp/article/details/18312117)
+
+
+## 7. MyBlog
 
 
 [www.do1618.com](http://www.do1618.com)<br />
