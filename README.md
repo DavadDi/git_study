@@ -13,6 +13,17 @@
     $git remote add origin https://github.com/DavadDi/git_study.git
     $git push -u origin master
 
+如果未配置 Auther 的邮箱和用户名，已经提交了，可以使用一下命令来修正：
+
+```
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+```
+
 ## 2. Push an existing repository from the command line
 
 
